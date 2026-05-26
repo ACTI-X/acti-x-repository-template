@@ -37,6 +37,22 @@ Every project using this template **must** also add:
   attributions (the org-wide copyright and EU funding statement are
   already included).
 
+## Before You Publish — Review Each File
+
+After bootstrapping a new project from this template, **open each file and
+fill in / adapt the sections marked below**:
+
+- [README.md](README.md) — replace the entire content with your project's
+  README (this file is a template, not the final one).
+- [MAINTAINERS.md](MAINTAINERS.md) — fill in the **Active Maintainers**
+  table (currently contains `_TBD_` placeholders).
+- [NOTICE.md](NOTICE.md) — review the **Third-Party Attributions** section:
+  list bundled dependencies and their licenses, or remove the section if
+  not applicable.
+- [GOVERNANCE.md](GOVERNANCE.md) — review references and confirm they
+  match the project's setup; no placeholders by default.
+- [LICENSE](LICENSE) — leave pristine (Apache 2.0 canonical text).
+
 ## Founding
 
 This project has received funding from the European Union’s Digital Europe Programme under Grant Agreement No 101249175.
